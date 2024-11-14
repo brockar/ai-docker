@@ -1,0 +1,6 @@
+[submodule "localAI/LocalAI-frontend"]
+	path = localAI/LocalAI-frontend
+	url = https://github.com/go-skynet/LocalAI-frontend
+[submodule "localAI/localai-admin"]
+	path = localAI/localai-admin
+	url = https://github.com/Jirubizu/localai-admin
